@@ -14,4 +14,4 @@ TEl: +1 514889235
 The goal of the game is to shoot at spinning targets, miss a shot and the game is over.
 
 
-![image](https://github.com/ARCKing/K./blob/master/icon-1024.png)
+![image](https://github.com/ARCKing/Black-Cannon/blob/master/icon-60%403x.png)
